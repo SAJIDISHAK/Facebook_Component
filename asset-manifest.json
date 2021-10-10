@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Facebook_Component/static/css/main.bab0b925.chunk.css",
+    "main.js": "/Facebook_Component/static/js/main.5259cd02.chunk.js",
+    "main.js.map": "/Facebook_Component/static/js/main.5259cd02.chunk.js.map",
+    "runtime-main.js": "/Facebook_Component/static/js/runtime-main.87863dce.js",
+    "runtime-main.js.map": "/Facebook_Component/static/js/runtime-main.87863dce.js.map",
+    "static/js/2.e1e68565.chunk.js": "/Facebook_Component/static/js/2.e1e68565.chunk.js",
+    "static/js/2.e1e68565.chunk.js.map": "/Facebook_Component/static/js/2.e1e68565.chunk.js.map",
+    "static/js/3.7a335d35.chunk.js": "/Facebook_Component/static/js/3.7a335d35.chunk.js",
+    "static/js/3.7a335d35.chunk.js.map": "/Facebook_Component/static/js/3.7a335d35.chunk.js.map",
+    "index.html": "/Facebook_Component/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/Facebook_Component/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.e1e68565.chunk.js.LICENSE.txt": "/Facebook_Component/static/js/2.e1e68565.chunk.js.LICENSE.txt",
+    "static/media/Sir_Inzamam_Profile.c364702a.jpg": "/Facebook_Component/static/media/Sir_Inzamam_Profile.c364702a.jpg",
+    "static/media/babies.cb8ad385.jpeg": "/Facebook_Component/static/media/babies.cb8ad385.jpeg",
+    "static/media/burger.fa77533f.jpg": "/Facebook_Component/static/media/burger.fa77533f.jpg",
+    "static/media/express.896b9ea9.jpg": "/Facebook_Component/static/media/express.896b9ea9.jpg",
+    "static/media/fisalmasjid.dbe61d48.jpeg": "/Facebook_Component/static/media/fisalmasjid.dbe61d48.jpeg",
+    "static/media/haroon.e77bad15.jpeg": "/Facebook_Component/static/media/haroon.e77bad15.jpeg",
+    "static/media/hiroof.fcb80389.jpg": "/Facebook_Component/static/media/hiroof.fcb80389.jpg",
+    "static/media/ishaq.570aac26.jpeg": "/Facebook_Component/static/media/ishaq.570aac26.jpeg",
+    "static/media/sajid.4fbd0b9e.jpeg": "/Facebook_Component/static/media/sajid.4fbd0b9e.jpeg",
+    "static/media/saqib.e1ced06e.jpeg": "/Facebook_Component/static/media/saqib.e1ced06e.jpeg",
+    "static/media/shafiq.9d4c28cd.jpeg": "/Facebook_Component/static/media/shafiq.9d4c28cd.jpeg",
+    "static/media/sufiyan.74bdba89.jpg": "/Facebook_Component/static/media/sufiyan.74bdba89.jpg",
+    "static/media/tour.6e6feef4.jpeg": "/Facebook_Component/static/media/tour.6e6feef4.jpeg",
+    "static/media/victory.5d20794a.jpeg": "/Facebook_Component/static/media/victory.5d20794a.jpeg",
+    "static/media/villa.bfc4c2f9.jpeg": "/Facebook_Component/static/media/villa.bfc4c2f9.jpeg",
+    "static/media/zain.23de6548.jpeg": "/Facebook_Component/static/media/zain.23de6548.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87863dce.js",
+    "static/js/2.e1e68565.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.5259cd02.chunk.js"
+  ]
+}
