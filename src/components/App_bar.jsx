@@ -121,12 +121,12 @@ export default function PrimarySearchAppBar() {
         >
             <MenuItem>
                 {/* add messsage on mobile site */}
-                {/* <IconButton size="large" aria-label="show 4 new mails" color="inherit">
-          <Badge badgeContent={4} color="error">
-            <MailIcon />
-          </Badge>
-        </IconButton>
-        <p>Messages</p> */}
+                <IconButton size="large" aria-label="show 4 new mails" color="inherit">
+                    <Badge badgeContent={4} color="error">
+                        <MailIcon />
+                    </Badge>
+                </IconButton>
+                <p>Messages</p>
             </MenuItem>
             <MenuItem>
                 <IconButton
@@ -188,11 +188,11 @@ export default function PrimarySearchAppBar() {
                     <Box sx={{ flexGrow: 1 }} />
                     <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
                         {/* Add message on desktop site */}
-                        {/* <IconButton size="large" aria-label="show 4 new mails" color="inherit">
+                        <IconButton size="large" aria-label="show 4 new mails" color="inherit">
               <Badge badgeContent={4} color="error">
                 <MailIcon />
               </Badge>
-            </IconButton> */}
+            </IconButton>
                         <IconButton
                             size="large"
                             aria-label="show 17 new notifications"
