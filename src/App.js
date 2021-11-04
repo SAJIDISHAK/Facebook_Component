@@ -18,7 +18,6 @@ import Haroon from "./Images/haroon.jpeg";
 import HiRoof from "./Images/hiroof.jpg";
 import Zain from "./Images/zain.jpeg";
 import FisalMasjid from "./Images/fisalmasjid.jpeg";
-import { grey } from '@mui/material/colors';
 
 function App() {
   const [theme, setTheme] = useState(true);

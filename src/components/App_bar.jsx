@@ -120,6 +120,18 @@ export default function PrimarySearchAppBar() {
             onClose={handleMobileMenuClose}
         >
             <MenuItem>
+                <IconButton size="medium" aria-label="show 4 new mails" color="inherit">
+                    <i className="fas fa-moon"></i>
+                </IconButton>
+                <p>Dark Mode</p>
+            </MenuItem>
+            <MenuItem>
+                <IconButton size="medium" aria-label="show 4 new mails" color="inherit">
+                    <i class="fas fa-sun"></i>
+                </IconButton>
+                <p>Light Mode</p>
+            </MenuItem>
+            <MenuItem>
                 {/* add messsage on mobile site */}
                 <IconButton size="large" aria-label="show 4 new mails" color="inherit">
                     <Badge badgeContent={4} color="error">
@@ -187,12 +199,19 @@ export default function PrimarySearchAppBar() {
                     </Search>
                     <Box sx={{ flexGrow: 1 }} />
                     <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
-                        {/* Add message on desktop site */}
+                        {/* {dark == true ? */}
+                        <IconButton size="medium" color="inherit">
+                            <i className="fas fa-moon"></i>
+                        </IconButton>
+                        {/* } */}
+                        <IconButton size="medium" color="inherit">
+                            <i class="fas fa-sun"></i>
+                        </IconButton>
                         <IconButton size="large" aria-label="show 4 new mails" color="inherit">
-              <Badge badgeContent={4} color="error">
-                <MailIcon />
-              </Badge>
-            </IconButton>
+                            <Badge badgeContent={4} color="error">
+                                <MailIcon />
+                            </Badge>
+                        </IconButton>
                         <IconButton
                             size="large"
                             aria-label="show 17 new notifications"
